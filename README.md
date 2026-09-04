@@ -41,7 +41,7 @@ The workflow begins when a patient submits their information through a Google Fo
 
 A predefined Google Docs template contains placeholders that are dynamically replaced with the submitted information.
 
-![Medical Record Template](Screenshots/03_Medical%20Record%20Template.JPG)
+![Medical Record Template](Screenshots/03_Medical%20Record%20Template.png)
 
 ### 4. Form Submission
 
@@ -59,7 +59,7 @@ The workflow automatically creates a new medical record based on the predefined 
 
 Form responses and automatically calculated information, such as age and BMI, are inserted into the generated document.
 
-![Medical Record Document](Screenshots/06_Medical%20Record%20Document.JPG)
+![Medical Record Document](Screenshots/06_Medical%20Record%20Document.png)
 
 ### 7. Centralized Record Tracking
 
