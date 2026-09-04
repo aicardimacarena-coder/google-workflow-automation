@@ -63,7 +63,7 @@ Form responses and automatically calculated information, such as age and BMI, ar
 
 ### 7. Centralized Record Tracking
 
-The Google Sheets response database is automatically updated with a direct link to the generated document, the expiration and reminder dates are calculated in this sheet.
+The Google Sheets response database is automatically updated with a direct link to the generated document, while expiration and reminder dates are calculated automatically.
 
 ![Patient Records Sheet](Screenshots/07_Patient%20Records%20sheet.JPG)
 
@@ -122,21 +122,21 @@ google-workflow-automation/
 ├── README.md
 ├── form-document-automation.gs
 ├── email-reminder-automation.gs
-└── screenshots/
+└── Screenshots/
 ```
 
 ## 🚀 Project Purpose
 
 This project demonstrates practical experience in:
 
-Process automation
-Workflow design
-Google Workspace integration
-Data processing
-Automated document generation
-Scheduled task execution
-Process improvement
-Error reduction and administrative efficiency
+- Process automation
+- Workflow design
+- Google Workspace integration
+- Data processing
+- Automated document generation
+- Scheduled task execution
+- Process improvement
+- Error reduction and administrative efficiency
 
 ---
 
